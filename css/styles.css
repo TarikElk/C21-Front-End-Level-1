@@ -1,10 +1,11 @@
 h1{
     color: blue;
-    text-algin: right;
-    margin-top: 120px;
+    width: 100px
+    height: 100px
   }
+
 p1{
     color: green;
-    text-algin: left;
-    margin-top: 120px;
-  }
+    width: 100px
+    height: 100px
+  } 
